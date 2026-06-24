@@ -21,7 +21,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="./assets/python.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="./assets/java.svg" alt="java" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="./assets/dotnet.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="./assets/csharp.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="./assets/csharp.svg" alt="java" width="40" height="40"/></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo1209&show_icons=true&locale=cn&layout=compact&theme=shadow_blue&stats_format=bytes" alt="Top Languages" />
