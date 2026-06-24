@@ -10,7 +10,12 @@
 > 个人微信公众号：小地球开发
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&locale=cn&theme=shadow_blue" alt="GitHub Stats Card" />
+  <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px" alt="GitHub Stats Card" />
+  </a>
+  <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px&layout=compact" alt="GitHub Stats Card" />
+  </a>
 </p>
 
 ---
@@ -27,7 +32,14 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="./assets/csharp.svg" alt="csharp" width="40" height="40"/></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo1209&show_icons=true&locale=cn&layout=compact&theme=shadow_blue&stats_format=bytes" alt="Top Languages" />
+  <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo1209&show_icons=true&locale=cn&layout=compact&theme=shadow_blue&stats_format=bytes&card_width=500px" alt="Top Languages" />
+  </a>
 </p>
 
-<h2 align="left">常用开发框架:</h2>
+<h2 align="left">常用开发框架与库:</h2>
+<h3 align="left">前端框架:</h3>
+
+<h3 align="left">后端框架:</h3>
+
+<h3 align="left">GIS库:</h3>
