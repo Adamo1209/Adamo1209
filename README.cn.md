@@ -1,28 +1,29 @@
 <h1 align="center">Adamos1209</h1>
-<h3 align="center"> A GIS developer. The current development direction is towards full-stack WebGIS. </h3>
+<h3 align="center"> 一名 GIS 开发者，当前的开发方向为全栈 WebGIS</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Adamo1209&style=for-the-badge&abbreviated=truelabel=PROFILE+VIEWS&base=21" alt="Profile Views"/>
 </p>
 <p align="center">
-English | [中文](./assets/README.cn.md)
+[English](./assets/README.md) | 中文
 </p>
 
 > [!TIP]
-> Personal Website：[https://adamo1209.site](https://adamo1209.site)（building）
+> 个人网站：[https://adamo1209.site](https://adamo1209.site)（正在建设）
 >
+> 个人微信公众号：小地球开发
 
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&theme=shadow_blue&card_width=500px&include_all_commits=true" alt="GitHub Stats Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px&include_all_commits=true" alt="GitHub Stats Card" />
   </a>
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamo1209&show_icons=true&theme=shadow_blue&card_width=500px&layout=compact" alt="GitHub Stats Card" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px&layout=compact" alt="GitHub Stats Card" />
   </a>
 </p>
 
 ---
 
-<h2 align="left">Common Programming Languages:</h2>
+<h2 align="left">常用开发语言:</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./assets/html.svg" alt="html5" width="40" height="40"/></a>
@@ -35,12 +36,12 @@ English | [中文](./assets/README.cn.md)
 </p>
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo1209&show_icons=true&layout=compact&theme=shadow_blue&stats_format=bytes&card_width=500px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo1209&show_icons=true&locale=cn&layout=compact&theme=shadow_blue&stats_format=bytes&card_width=500px" alt="Top Languages" />
   </a>
 </p>
 
-<h2 align="left">Common Development Framework:</h2>
-<h3 align="left">Frontend Framework:</h3>
+<h2 align="left">常用开发框架:</h2>
+<h3 align="left">前端框架:</h3>
 <ul>
   <li>
     <img src="./assets/vue.svg" alt="vue" width="40" height="40"/>
@@ -51,7 +52,7 @@ English | [中文](./assets/README.cn.md)
     React
   </li>
 </ul>
-<h3 align="left">Backend Framework:</h3>
+<h3 align="left">后端框架:</h3>
 <ul>
   <li>
     <img src="./assets/fastapi.svg" alt="fastapi" width="40" height="40"/>
