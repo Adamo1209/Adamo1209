@@ -3,8 +3,9 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Adamo1209&style=for-the-badge&abbreviated=truelabel=PROFILE+VIEWS&base=21" alt="Profile Views"/>
 </p>
+
 <p align="center">
-English | [中文](./assets/README.cn.md)
+English | <a href="README.cn.md" rel="noreferrer">中文</a>
 </p>
 
 > [!TIP]
