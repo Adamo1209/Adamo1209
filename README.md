@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px" alt="GitHub Stats Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px&include_all_commits=true" alt="GitHub Stats Card" />
   </a>
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamo1209&show_icons=true&locale=cn&theme=shadow_blue&card_width=500px&layout=compact" alt="GitHub Stats Card" />
@@ -39,7 +39,24 @@
 
 <h2 align="left">常用开发框架与库:</h2>
 <h3 align="left">前端框架:</h3>
-
+<ul>
+  <li>
+    <img src="./assets/vue.svg" alt="vue" width="40" height="40"/>
+    Vue
+  </li>
+  <li>
+    <img src="./assets/react.svg" alt="react" width="40" height="40"/>
+    React
+  </li>
+</ul>
 <h3 align="left">后端框架:</h3>
-
-<h3 align="left">GIS库:</h3>
+<ul>
+  <li>
+    <img src="./assets/fastapi.svg" alt="fastapi" width="40" height="40"/>
+    FastAPI（Python）
+  </li>
+  <li>
+    <img src="./assets/flask.svg" alt="flask" width="40" height="40"/>
+    Flask（Python）
+  </li>
+</ul>
