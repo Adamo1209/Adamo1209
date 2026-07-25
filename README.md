@@ -14,10 +14,10 @@ English | <a href="README.cn.md" rel="noreferrer">中文</a>
 
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=adamo1209&show_icons=true&theme=shadow_blue&card_width=500px&include_all_commits=true" alt="GitHub Stats Card" />
+    <img src="./assets_auto/stats.svg" alt="GitHub Stats Card" />
   </a>
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adamo1209&show_icons=true&theme=shadow_blue&card_width=500px&layout=compact" alt="GitHub Stats Card" />
+    <img src="./assets_auto/wakatime.svg" alt="WakaTime Card" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ English | <a href="README.cn.md" rel="noreferrer">中文</a>
 </p>
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo1209&show_icons=true&layout=compact&theme=shadow_blue&stats_format=bytes&card_width=500px" alt="Top Languages" />
+    <img src="./assets_auto/top_langs.svg" alt="Top Languages" />
   </a>
 </p>
 
