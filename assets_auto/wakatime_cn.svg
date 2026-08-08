@@ -1,8 +1,8 @@
 
       <svg
         width="500"
-        height="215"
-        viewBox="0 0 500 215"
+        height="140"
+        viewBox="0 0 500 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,47 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="173.289"
-            height="8"
-            fill="#7355dd"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="173.289"
-            y="0"
-            width="118.48700000000001"
-            height="8"
-            fill="#b07219"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="291.776"
-            y="0"
-            width="68.52600000000001"
-            height="8"
-            fill="#005C9C"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="360.302"
-            y="0"
-            width="38.163999999999994"
-            height="8"
-            fill="#41b883"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="398.466"
-            y="0"
-            width="35.343999999999994"
+            width="197.96399999999997"
             height="8"
             fill="#f1e05a"
           />
@@ -177,104 +137,42 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="433.81"
+            x="197.96399999999997"
             y="0"
-            width="23.546999999999997"
+            width="183.62900000000002"
             height="8"
-            fill="#292929"
+            fill="#b07219"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="457.35699999999997"
+            x="381.59299999999996"
             y="0"
-            width="4.935"
+            width="84.412"
             height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="462.292"
-            y="0"
-            width="3.525"
-            height="8"
-            fill="#F44D27"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="465.81699999999995"
-            y="0"
-            width="2.82"
-            height="8"
-            fill="#0060ac"
+            fill="#41b883"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#7355dd" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 1 hr 39 mins
+        JavaScript - 1 hr 14 mins
       </text>
     </g>
   
     <g transform="translate(232.5, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 1 hr 7 mins
+        Java - 1 hr 8 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#005C9C" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTTP - 39 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 50)">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue - 21 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 20 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 75)">
-      <circle cx="5" cy="6" r="5" fill="#292929" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 13 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 100)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 2 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 100)">
-      <circle cx="5" cy="6" r="5" fill="#F44D27" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Git Config - 2 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 125)">
-      <circle cx="5" cy="6" r="5" fill="#0060ac" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 1 min
+        Vue - 31 mins
       </text>
     </g>
   
