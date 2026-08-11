@@ -1,8 +1,8 @@
 
       <svg
         width="500"
-        height="115"
-        viewBox="0 0 500 115"
+        height="140"
+        viewBox="0 0 500 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="369.467"
+            width="374.449"
             height="8"
             fill="#41b883"
           />
@@ -137,18 +137,28 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="369.467"
+            x="374.449"
             y="0"
-            width="98.13600000000001"
+            width="90.24"
             height="8"
             fill="#f1e05a"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="464.689"
+            y="0"
+            width="4.23"
+            height="8"
+            fill="#858585"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue - 5 hrs 31 mins
+        Vue - 6 hrs 5 mins
       </text>
     </g>
   
@@ -156,6 +166,13 @@
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript - 1 hr 28 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Other - 4 mins
       </text>
     </g>
   
