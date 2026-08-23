@@ -2,7 +2,7 @@ name: Generate/Update Self Introduction README cards (cn)
 
 on:
   schedule:
-    - cron: "0 0 16 ? * 1" # 每周一 0:00（北京时间）定时触发【Cron表达式】
+    - cron: "0 16 ? * 0" # 每周一 0:00（北京时间）定时触发【Cron表达式】
   workflow_dispatch:
 
 jobs:
