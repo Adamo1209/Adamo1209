@@ -24,7 +24,7 @@ English | <a href="README.cn.md" rel="noreferrer">中文</a>
 ---
 
 <h2 align="left">Common Programming Languages:</h2>
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./assets/html.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./assets/css.svg" alt="css3" width="40" height="40"/></a>
