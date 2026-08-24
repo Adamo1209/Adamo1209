@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
     <a href="https://gitee.com/Adamo1209" rel="noreferrer" target="_blank">
-      <img src="https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Gitee"/>
+      <img src="https://img.shields.io/badge/gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/>
     </a>
     <a href="mailto:adamo@adamo1209.site" rel="noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
