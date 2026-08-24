@@ -1,4 +1,4 @@
-![Header](https://capsule-render.adamo1209.site/api?type=soft&height=300&color=105be0&text=Adamo1209&section=header&reversal=false&textBg=false&strokeWidth=2&desc=%20A%20GIS%20developer%20towards%20full-stack%20WebGIS%20&descAlign=50&descAlignY=75&fontColor=df7126&animation=fadeIn&stroke=df7126&descSize=28)
+![Header](https://capsule-render.adamo1209.site/api?type=soft&height=300&color=timeAuto&text=Adamo1209&section=header&reversal=false&textBg=false&strokeWidth=2&desc=%20A%20GIS%20developer%20towards%20full-stack%20WebGIS%20&descAlign=50&descAlignY=75&fontColor=df7126&animation=fadeIn&stroke=df7126&descSize=28)
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Adamo1209&style=for-the-badge&abbreviated=truelabel=PROFILE+VIEWS&base=21" alt="Profile Views"/>
     <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
@@ -9,6 +9,12 @@
     </a>
     <a href="mailto:adamo@adamo1209.site" rel="noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    </a>
+    <a href="https://adamo1209.site" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/website-3980fe?style=for-the-badge&labelColor=77da32" alt="website"/>
+    </a>
+    <a href="" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/小地球开发（公众号）-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="小地球开发（公众号）"/>
     </a>
 </p>
 
@@ -99,4 +105,4 @@
 ![Qwen](https://img.shields.io/badge/qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
 ![Kimi](https://img.shields.io/badge/kimi-000000?style=for-the-badge&logo=kimi&logoColor=white)
 
-![Footer](https://capsule-render.adamo1209.site/api?type=waving&height=150&color=gradient&section=footer&desc=2026%20@Adamo1209&descAlignY=75&fontColor=FFFFFF)
+![Footer](https://capsule-render.adamo1209.site/api?type=waving&height=150&color=timeAuto&section=footer&desc=2026%20@Adamo1209&descAlignY=75&fontColor=FFFFFF)
