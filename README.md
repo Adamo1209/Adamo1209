@@ -1,16 +1,20 @@
-<h1 align="center">Adamos1209</h1>
-<h3 align="center"> A GIS developer. The current development direction is towards full-stack WebGIS. </h3>
+![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=105be0&text=Adamo1209&section=header&reversal=false&textBg=false&strokeWidth=2&desc=%20A%20GIS%20developer%20towards%20full-stack%20WebGIS%20&descAlign=50&descAlignY=75&fontColor=df7126&animation=fadeIn&stroke=df7126&descSize=28)
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Adamo1209&style=for-the-badge&abbreviated=truelabel=PROFILE+VIEWS&base=21" alt="Profile Views"/>
+    <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://gitee.com/Adamo1209" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Gitee"/>
+    </a>
+    <a href="mailto:adamo@adamo1209.site" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    </a>
 </p>
 
 <p align="center">
-English | <a href="README.cn.md" rel="noreferrer">中文</a>
+<a href="README.cn.md" rel="noreferrer">中文</a> | English 
 </p>
-
-> [!TIP]
-> Personal Website：[https://adamo1209.site](https://adamo1209.site)
->
 
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">

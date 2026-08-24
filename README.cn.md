@@ -1,17 +1,20 @@
-<h1 align="center">Adamos1209</h1>
-<h3 align="center"> 一名 GIS 开发者，当前的开发方向为全栈 WebGIS</h3>
+![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=105be0&text=Adamo1209&section=header&reversal=false&textBg=false&strokeWidth=2&desc=一名%20GIS%20开发者，当前的开发方向为全栈%20WebGIS&descAlign=50&descAlignY=75&fontColor=df7126&animation=fadeIn&stroke=df7126&descSize=28)
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Adamo1209&style=for-the-badge&abbreviated=truelabel=PROFILE+VIEWS&base=21" alt="Profile Views"/>
+    <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+    <a href="https://gitee.com/Adamo1209" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Gitee"/>
+    </a>
+    <a href="mailto:adamo@adamo1209.site" rel="noreferrer" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    </a>
 </p>
 
 <p align="center">
-中文 | <a href="README.md" rel="noreferrer">English</a>
+  中文 | <a href="README.md" rel="noreferrer">English</a>
 </p>
-
-> [!TIP]
-> 个人网站：[https://adamo1209.site](https://adamo1209.site)
->
-> 个人微信公众号：小地球开发
 
 <p align="center">
   <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
@@ -21,8 +24,6 @@
     <img src="./assets_auto/wakatime_cn.svg" alt="WakaTime Card" />
   </a>
 </p>
-
----
 
 <h2 align="left">常用开发语言:</h2>
 <p align="center">
