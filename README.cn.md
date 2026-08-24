@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=105be0&text=Adamo1209&section=header&reversal=false&textBg=false&strokeWidth=2&desc=一名%20GIS%20开发者，当前的开发方向为全栈%20WebGIS&descAlign=50&descAlignY=75&fontColor=df7126&animation=fadeIn&stroke=df7126&descSize=28)
+![Header](https://capsule-render.adamo1209.site/api?type=soft&height=300&color=105be0&text=Adamo1209&section=header&reversal=false&textBg=false&strokeWidth=2&desc=一名%20GIS%20开发者，当前的开发方向为全栈%20WebGIS&descAlign=50&descAlignY=75&fontColor=df7126&animation=fadeIn&stroke=df7126&descSize=28)
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Adamo1209&style=for-the-badge&abbreviated=truelabel=PROFILE+VIEWS&base=21" alt="Profile Views"/>
     <a href="https://github.com/Adamo1209" rel="noreferrer" target="_blank">
@@ -96,3 +96,5 @@
 ![DeepSeek](https://img.shields.io/badge/deepseek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
 ![Kimi](https://img.shields.io/badge/kimi-000000?style=for-the-badge&logo=kimi&logoColor=white)
+
+![Footer](https://capsule-render.adamo1209.site/api?type=waving&height=150&color=gradient&section=footer&desc=2026%20@Adamo1209&descAlignY=75&fontColor=FFFFFF)
