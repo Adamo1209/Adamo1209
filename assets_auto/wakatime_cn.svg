@@ -1,8 +1,8 @@
 
       <svg
         width="500"
-        height="165"
-        viewBox="0 0 500 165"
+        height="90"
+        viewBox="0 0 500 90"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -133,108 +133,8 @@
       <rect x="25" y="0" width="445" height="8" fill="white" rx="5" />
       </mask>
       
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0"
-            y="0"
-            width="272.506"
-            height="8"
-            fill="#555555"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="272.506"
-            y="0"
-            width="119.192"
-            height="8"
-            fill="#427819"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="391.698"
-            y="0"
-            width="56.118"
-            height="8"
-            fill="#6E4C13"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="447.816"
-            y="0"
-            width="12.126000000000001"
-            height="8"
-            fill="#012456"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="459.94199999999995"
-            y="0"
-            width="5.686999999999999"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="465.62899999999996"
-            y="0"
-            width="3.055"
-            height="8"
-            fill="#858585"
-          />
-        
       
-    <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 2 hrs 15 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 25)">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile - 59 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#6E4C13" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Assembly - 27 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 50)">
-      <circle cx="5" cy="6" r="5" fill="#012456" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell - 6 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Linker Script - 2 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Text - 1 min
-      </text>
-    </g>
+    <text x="25" y="11" class="stat bold">&#29992;&#25143;&#19981;&#20844;&#24320;&#20998;&#20139;&#35814;&#32454;&#30340;&#20195;&#30721;&#32479;&#35745;&#20449;&#24687;</text>
   
     
     </svg>
