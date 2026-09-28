@@ -1,8 +1,8 @@
 
       <svg
         width="500"
-        height="140"
-        viewBox="0 0 500 140"
+        height="90"
+        viewBox="0 0 500 90"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -133,74 +133,8 @@
       <rect x="25" y="0" width="445" height="8" fill="white" rx="5" />
       </mask>
       
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0"
-            y="0"
-            width="230.065"
-            height="8"
-            fill="#555555"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="230.065"
-            y="0"
-            width="141.423"
-            height="8"
-            fill="#6E4C13"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="371.488"
-            y="0"
-            width="80.887"
-            height="8"
-            fill="#427819"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="452.375"
-            y="0"
-            width="15.04"
-            height="8"
-            fill="#858585"
-          />
-        
       
-    <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 43 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 25)">
-      <circle cx="5" cy="6" r="5" fill="#6E4C13" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Assembly - 26 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile - 15 mins
-      </text>
-    </g>
-  
-    <g transform="translate(232.5, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Linker Script - 2 mins
-      </text>
-    </g>
+    <text x="25" y="11" class="stat bold">User doesn&#39;t publicly share detailed code statistics</text>
   
     
     </svg>
